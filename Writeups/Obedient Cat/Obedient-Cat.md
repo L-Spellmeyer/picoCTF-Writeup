@@ -20,3 +20,6 @@
 <br>
 
 ## Solution:
+<img src="https://github.com/user-attachments/assets/893168f2-ad62-409a-9a9c-754253a6f004" alt="Alt Text" width="400" height="200">
+
+
